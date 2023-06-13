@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khlement
-- 👀 I’m interested in Data science and Analysis, Web programming and Finance
-- 🌱 I’m currently learning Machine Learning and its application in marketing
-- 💞️ I’m looking to collaborate on awesome data sceince and web programming projects
+- 👀 I’m interested in Machine Learning(computer Vision), Data Science and Web development 
+- 💞️ I’m looking to collaborate on awesome Machine Learning(computer Vision), data sceince and web development projects
 - 📫 How to reach me cment.adjei17@gmail.com
 
 <!---
