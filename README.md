@@ -46,9 +46,10 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
 
 - Others:
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
-<a href="https://amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/21691211/218056560-872878ec-0ec9-4814-bc13-aa70ceb9137c.png" alt="amplitude" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/21691211/218056560-872878ec-0ec9-4814-bc13-aa70ceb9137c.png" alt="amplitude" width="30" height="30"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
+
 
 <!---
 Khlement/Khlement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
