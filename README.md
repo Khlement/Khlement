@@ -1,7 +1,7 @@
 **About me**
 - 👋 Hi, I’m @Khlement
 -  🎓 Undergraduate degree in Industrial & Systems Engineering and Business Technology Management at the <a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology (KAIST)</a>.
-- 📊 **Specialty**: **Machine Learning(computer Vision)**, **Data Science** and **Web development** 
+- 📊 **Specialty**: **Data Analysis**, **Machine Learning(computer Vision)** and **Web development** 
 - 💞️ I’m looking to collaborate on awesome Machine Learning(computer Vision), data sceince and web development projects
 - 💻 Previously worked as Undergradaute Research Assistant at  <a href="https://sites.google.com/view/q-marketinglab/home">Quantitative Marketing Lab-KAIST</a>.
 - 📫 How to reach me cment.adjei17@gmail.com
